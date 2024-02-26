@@ -1,0 +1,5 @@
+services:
+-name: app.js
+   env:
+    -key:NODE_ENV
+     value:production
